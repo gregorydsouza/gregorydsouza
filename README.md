@@ -1,7 +1,7 @@
 <p align="center">
 <h1 align="center">Nice to meet you! I'm Gregory Dsouza</h1>
 
-<img align="center" src="/images/outline_transparent_whitepause_512px.gif" alt="Animated Profile Picture">
+<img src="/images/outline_transparent_whitepause.gif" width="512" height="512">
 
 <h3 align="center">I'm an Engineering Student who loves programming</h1>
 </p>
