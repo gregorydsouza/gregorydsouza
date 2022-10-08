@@ -1,10 +1,10 @@
-<p align="center">
 <h1 align="center">Nice to meet you! I'm Gregory Dsouza</h1>
 
-<img src="/images/outline_transparent_whitepause.gif" width="512" height="512">
+<p align="center">
+	<img src="/images/outline_transparent_whitepause.gif" width="512" height="512">
+</p>
 
 <h3 align="center">I'm an Engineering Student who loves programming</h1>
-</p>
 
 ### My GitHub Stats
 
