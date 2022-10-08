@@ -1,10 +1,9 @@
 <p align="center">
 <h1 align="center">Nice to meet you! I'm Gregory Dsouza</h1>
 
-![](/images/pfp_outline_transparent_whitepause.gif)
+![](/images/outline_transparent_whitepause_512px.gif)
 
-<h1 align="center">I'm an Engineering Student</h1>
-<h2 align="center">who loves Programming!</h2>
+<h3 align="center">I'm an Engineering Student who loves programming</h1>
 </p>
 
 ### My GitHub Stats
