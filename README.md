@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="/images/outline_transparent_whitepause.gif" width="512" height="512">
+	<img src="/images/Graduation_SquarePhoto.jpg" width="512" height="512">
 </p>
 
 Hi! I'm Gregory Dsouza, a Multidisciplinary Mechanical Engineer passionate about robotics, biomedical systems, computer graphics, rapid prototyping, and media production.
