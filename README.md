@@ -1,13 +1,7 @@
-<h1 align="center">Nice to meet you! I'm Gregory Dsouza</h1>
-
 <p align="center">
 	<img src="/images/outline_transparent_whitepause.gif" width="512" height="512">
 </p>
 
-<h3 align="center">I'm an Engineering Student who loves programming</h1>
+Hi! I'm Gregory Dsouza, a Multidisciplinary Mechanical Engineer passionate about robotics, biomedical systems, computer graphics, rapid prototyping, and media production.
 
-### My GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregorydsouza&show_icons=true&theme=onedark)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gregorydsouza&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+If you're working on something that could benefit from a creative, technically versatile contributor, I'd love to connect and discuss how I can contribute!
